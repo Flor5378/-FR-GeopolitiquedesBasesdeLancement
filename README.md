@@ -1,6 +1,6 @@
 # Compétition spatiale contemporaine
-*CY CERGY PARIS UNIVERSITE*
-*Florian GROLLEAU 2023* Double Diplôme Humanités Digitales
+- *CY CERGY PARIS UNIVERSITE*
+- *Florian GROLLEAU 2023* Double Diplôme Humanités Digitales
 
 ## Sujet
 Analyse des tensions géopolitiques liées à la militarisation de l’espace, héritières de la Guerre froide, et de leur prolongement dans la compétition technologique et stratégique actuelle.
